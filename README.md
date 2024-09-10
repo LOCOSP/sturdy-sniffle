@@ -26,6 +26,8 @@ edit credentials for access point on ESP
 
 and bake you ESP using Arduino IDE or VSCode.
 
+Connect to your AP and call: ```192.168.4.1```
+
 
 # Screen Shots
 ### Interface
