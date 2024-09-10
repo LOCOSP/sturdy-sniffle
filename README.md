@@ -14,6 +14,13 @@ All above is writen in to a file ```networks.txt``` and can be downloaded.
 Only new discovered networks are stored in log file no duplicated entries.
 After uploading the software and turning it on for the first time, the LED lights up permanently, as soon as someone is browsing the UI, the LED starts blinking 3 times, showing that someone is browsing (connected).
 
+## Hardware
+
+Code was created and tested on WiFi ESP-12E + NodeMCU v2 - 4MB
+
+![NodeMCU v2](img/node1.png)
+![NodeMCU v2](img/node2.png)
+
 
 ## First Steps:
 
