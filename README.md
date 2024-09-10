@@ -18,21 +18,21 @@ After uploading the software and turning it on for the first time, the LED light
 ## First Steps:
 
 edit credetials to access your home network 
-![home-network-credentials](home-network.png)
+![home-network-credentials](img/home-network.png)
 (optional to gain date and time for log file)
 
 edit credentials for access point on ESP
-![access-point-credentials](ap.png)
+![access-point-credentials](img/ap.png)
 
 and bake you ESP using Arduino IDE or VSCode.
 
 
 # Screen Shots
 ### Interface
-![alt text](IMG_6823.jpg) 
-![alt text](IMG_6824.jpg)
+![alt text](img/IMG_6823.jpg) 
+![alt text](img/IMG_6824.jpg)
 
 ### Log file
 Can bo downloaded
 
-![alt text](IMG_6825.jpg)
+![alt text](img/IMG_6825.jpg)
